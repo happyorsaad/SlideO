@@ -1,0 +1,348 @@
+
+slidoAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+slidoLogo
+  rotate: false
+  xy: 1, 1717
+  size: 440, 300
+  orig: 440, 300
+  offset: 0, 0
+  index: -1
+header_without_alinu
+  rotate: false
+  xy: 443, 1817
+  size: 464, 200
+  orig: 464, 200
+  offset: 0, 0
+  index: -1
+deadAlinu
+  rotate: false
+  xy: 1, 1415
+  size: 296, 300
+  orig: 296, 300
+  offset: 0, 0
+  index: -1
+backGround
+  rotate: false
+  xy: 1, 1113
+  size: 248, 300
+  orig: 248, 300
+  offset: 0, 0
+  index: -1
+blood
+  rotate: false
+  xy: 1, 861
+  size: 282, 250
+  orig: 282, 250
+  offset: 0, 0
+  index: -1
+header
+  rotate: false
+  xy: 1, 659
+  size: 315, 200
+  orig: 315, 200
+  offset: 0, 0
+  index: -1
+strip2
+  rotate: false
+  xy: 443, 1801
+  size: 512, 14
+  orig: 512, 14
+  offset: 0, 0
+  index: -1
+spikes
+  rotate: false
+  xy: 443, 1786
+  size: 512, 13
+  orig: 512, 13
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 1, 507
+  size: 252, 150
+  orig: 252, 150
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 1, 305
+  size: 198, 200
+  orig: 198, 200
+  offset: 0, 0
+  index: -1
+backButtonLong
+  rotate: false
+  xy: 443, 1708
+  size: 300, 76
+  orig: 300, 76
+  offset: 0, 0
+  index: -1
+backButton
+  rotate: false
+  xy: 1, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+helpButton
+  rotate: false
+  xy: 1, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+leaderBoard
+  rotate: false
+  xy: 299, 1619
+  size: 300, 87
+  orig: 300, 87
+  offset: 0, 0
+  index: -1
+exitButton
+  rotate: false
+  xy: 299, 1541
+  size: 300, 76
+  orig: 300, 76
+  offset: 0, 0
+  index: -1
+gotItButton
+  rotate: false
+  xy: 299, 1463
+  size: 300, 76
+  orig: 300, 76
+  offset: 0, 0
+  index: -1
+deadMsg
+  rotate: false
+  xy: 299, 1387
+  size: 300, 74
+  orig: 300, 74
+  offset: 0, 0
+  index: -1
+letsSlideButton
+  rotate: false
+  xy: 251, 1309
+  size: 300, 76
+  orig: 300, 76
+  offset: 0, 0
+  index: -1
+letsSlideButtonClicked
+  rotate: false
+  xy: 251, 1231
+  size: 300, 76
+  orig: 300, 76
+  offset: 0, 0
+  index: -1
+notNowButton
+  rotate: false
+  xy: 251, 1153
+  size: 300, 76
+  orig: 300, 76
+  offset: 0, 0
+  index: -1
+rateUsButton
+  rotate: false
+  xy: 285, 1075
+  size: 300, 76
+  orig: 300, 76
+  offset: 0, 0
+  index: -1
+scoreBase
+  rotate: false
+  xy: 285, 997
+  size: 300, 76
+  orig: 300, 76
+  offset: 0, 0
+  index: -1
+signInButton
+  rotate: false
+  xy: 285, 919
+  size: 300, 76
+  orig: 300, 76
+  offset: 0, 0
+  index: -1
+happyYeti0001
+  rotate: false
+  xy: 601, 1556
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+happyYeti0011
+  rotate: false
+  xy: 601, 1556
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+happyYeti0002
+  rotate: false
+  xy: 601, 1404
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+happyYeti0010
+  rotate: false
+  xy: 601, 1404
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+signOutButton
+  rotate: false
+  xy: 318, 841
+  size: 300, 76
+  orig: 300, 76
+  offset: 0, 0
+  index: -1
+skipButton
+  rotate: false
+  xy: 318, 763
+  size: 300, 76
+  orig: 300, 76
+  offset: 0, 0
+  index: -1
+sureButton
+  rotate: false
+  xy: 318, 685
+  size: 300, 76
+  orig: 300, 76
+  offset: 0, 0
+  index: -1
+leaderBoardButton
+  rotate: false
+  xy: 752, 1634
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+leaderBoardButtonRed
+  rotate: false
+  xy: 752, 1482
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+pauseButton
+  rotate: false
+  xy: 752, 1330
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+happyYeti0003
+  rotate: false
+  xy: 601, 1252
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+playButton
+  rotate: false
+  xy: 752, 1178
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+happyYeti0004
+  rotate: false
+  xy: 255, 507
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+happyYeti0008
+  rotate: false
+  xy: 255, 507
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+replayButton
+  rotate: false
+  xy: 201, 355
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+settingsButton
+  rotate: false
+  xy: 406, 533
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+happyYeti0005
+  rotate: false
+  xy: 558, 533
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+flagRed
+  rotate: false
+  xy: 909, 1917
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+happyYeti0006
+  rotate: false
+  xy: 353, 355
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+soundOff
+  rotate: false
+  xy: 504, 381
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+happyYeti0007
+  rotate: false
+  xy: 656, 381
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+soundOn
+  rotate: false
+  xy: 201, 203
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+happyYeti0009
+  rotate: false
+  xy: 353, 203
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+fr.
+  rotate: false
+  xy: 909, 1864
+  size: 100, 51
+  orig: 100, 51
+  offset: 0, 0
+  index: -1
+snowBack3
+  rotate: false
+  xy: 909, 1817
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+snowBackground
+  rotate: false
+  xy: 904, 1750
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
